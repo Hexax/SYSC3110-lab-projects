@@ -3,8 +3,8 @@ import java.util.ArrayList;
 public class AddressBook {
     private ArrayList<BuddyInfo> buddiesList;
 
-    public AddressBook(ArrayList<BuddyInfo> buddiesList) {
-        this.buddiesList = buddiesList;
+    public AddressBook() {
+        this.buddiesList = new arrayList<>();
     }
 
     public void addBuddy(BuddyInfo temp){
