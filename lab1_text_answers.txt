@@ -1,0 +1,19 @@
+1.
+src
+.idea
+
+2.
+java.base
+java.compiler
+java.datatransfer
+
+3.
+public class BuddyInfo {
+    public static void main(String[] args) {
+        System.out.println("Hello world!");
+    }
+}
+
+
+4.
+C:\Users\trybo\Desktop\Carleton\Sysc3110\lab_1\out\production\Lab1
