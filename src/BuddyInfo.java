@@ -24,6 +24,6 @@ public class BuddyInfo {
 
     public static void main(String[] args) {
         BuddyInfo homer = new BuddyInfo("Homer", "123 donut lane", "6131234567");
-        System.out.println("Hello " + homer.getName());
+        System.out.println("Hello! " + homer.getName());
     }
 }
